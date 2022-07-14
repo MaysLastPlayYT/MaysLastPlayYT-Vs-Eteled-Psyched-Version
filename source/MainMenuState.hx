@@ -25,7 +25,7 @@ using StringTools;
 
 class MainMenuState extends MusicBeatState
 {
-        public static var VsMaysVersion:String = '1.0 Demo';
+        public static var VsEteledVersion:String = '1.1.1';
 	public static var psychEngineVersion:String = '0.5.2h'; //This is also used for Discord RPC
 	public static var curSelected:Int = 0;
 
@@ -125,7 +125,7 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
-                var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "Vs MaysLastPlay v" + VsMaysVersion, 12);
+                var versionShit:FlxText = new FlxText(12, FlxG.height - 64, 0, "Vs Eteled v" + VsEteledVersion, 12);
 		versionShit.scrollFactor.set();
 		versionShit.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(versionShit);
