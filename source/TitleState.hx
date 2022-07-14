@@ -579,16 +579,16 @@ class TitleState extends MusicBeatState
 			{
 				case 1:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Play Engine by'], 15);
+					createCoolText(['Psych Engine by'], 15);
 					#else
 					createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
 					#end
 				// credTextShit.visible = true;
 				case 3:
 					#if PSYCH_WATERMARKS
-					addMoreText('MaysLastPlay', 15);
-					addMoreText('Saw (M.A. Jigsaw)', 15);
-					addMoreText('VegethYT', 15);
+					addMoreText('ShadowMario', 15);
+					addMoreText('RiverOaken', 15);
+					addMoreText('shubs', 15);
 					#else
 					addMoreText('present');
 					#end
@@ -597,13 +597,13 @@ class TitleState extends MusicBeatState
 				case 4:
 					deleteCoolText();
 				// credTextShit.visible = false;
-				// credTextShit.text = 'Vs MaysLastPlay Team  \nPresent';
+				// credTextShit.text = 'TheMaskedChris  \nVs Eteled';
 				// credTextShit.screenCenter();
 				case 5:
 					#if PSYCH_WATERMARKS
-					createCoolText(['Vs MaysLastPlay Team', 'Present'], -40);
+					createCoolText(['TheMaskedChris', 'Vs Eteled'], -40);
 					#else
-					createCoolText(['Vs MaysLastPlay Team', 'Present'], -40);
+					createCoolText(['Eteled', 'Is Sus'], -40);
 					#end
 				case 8:
 					deleteCoolText();
@@ -621,16 +621,16 @@ class TitleState extends MusicBeatState
 				case 12:
 					deleteCoolText();
 				// credTextShit.visible = false;
-				// credTextShit.text = "Friday Night Funkin";
+				// credTextShit.text = "Friday";
 				// credTextShit.screenCenter();
 				case 13:
-					addMoreText('Friday Night Funkin');
+					addMoreText('Friday');
 				// credTextShit.visible = true;
 				case 14:
-					addMoreText('Vs');
-				// credTextShit.text += '\nVs';
+					addMoreText('Night');
+				// credTextShit.text += '\nNight';
 				case 15:
-					addMoreText('MaysLastPlay'); // credTextShit.text += '\nMaysLastPlay';
+					addMoreText('Funkim'); // credTextShit.text += '\nFunkin';
 
 				case 16:
 					skipIntro();
