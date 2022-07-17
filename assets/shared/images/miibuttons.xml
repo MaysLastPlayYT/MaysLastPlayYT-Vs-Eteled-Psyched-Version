@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="miibuttons.png"><SubTexture name="miibuttons anim0000" x="0" y="0" width="2008" height="1074" frameX="0" frameY="0" frameWidth="2008" frameHeight="1074" />
+<SubTexture name="miibuttons anim0001" x="2008" y="0" width="2004" height="1070" frameX="0" frameY="0" frameWidth="2004" frameHeight="1070" />
+<SubTexture name="miibuttons anim0002" x="4012" y="0" width="2004" height="1070" frameX="0" frameY="0" frameWidth="2004" frameHeight="1070" />
+<SubTexture name="miibuttons anim0003" x="6016" y="0" width="2008" height="1074" frameX="0" frameY="0" frameWidth="2008" frameHeight="1074" />
+<SubTexture name="miibuttons anim0004" x="0" y="1074" width="2004" height="1070" frameX="0" frameY="0" frameWidth="2004" frameHeight="1070" />
+</TextureAtlas>
