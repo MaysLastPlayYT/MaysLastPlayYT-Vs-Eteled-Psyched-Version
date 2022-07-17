@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "austin idle dance"
+		},
+		{
+			"offsets": [
+				264,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "austin Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-19,
+				-338
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "austin Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				162,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "austin Sing Note UP"
+		},
+		{
+			"offsets": [
+				-23,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "austin Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/austinglitch_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "austin",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		24,
+		24
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
