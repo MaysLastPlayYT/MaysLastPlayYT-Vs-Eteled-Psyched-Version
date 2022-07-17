@@ -1,0 +1,40 @@
+{
+	"storyName": "VS ETELED",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"PlayThing",
+			"austin",
+			[
+				180,
+		        24,
+		        24
+			]
+		],
+		[
+			"System-Failure",
+			"eteledAngry",
+			[
+				82,
+				112,
+				170
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "VS ETELED"
+}

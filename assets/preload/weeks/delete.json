@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Dream-Of-Peace",
+			"eteled",
+			[
+				125,
+				150,
+				201
+			]
+		],
+		[
+			"Diagraphephobia",
+			"eteledAngry",
+			[
+				82,
+				112,
+				170
+			]
+		],
+		[
+			"Post-Mortal",
+			"austin",
+			[
+				180,
+				24,
+				24
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS ETELED",
+	"weekName": "VS ETELED",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
