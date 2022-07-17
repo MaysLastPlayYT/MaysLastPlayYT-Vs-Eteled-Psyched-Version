@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "hallway",
+		"player1": "bf-mii",
+		"player2": "austin",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeBF",
+						"NOTE_assets",
+						"noteSplashes"
+					]
+				]
+			],
+			[
+				11076.9230769231,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				11538.4615384615,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "RedMiiNotesSplashes",
+		"validScore": false,
+		"gfVersion": "gf-mii",
+		"bpm": 130,
+		"arrowSkin": "RedMiiNotes",
+		"needsVoices": true,
+		"song": "Post-Mortal"
+	}
+}
