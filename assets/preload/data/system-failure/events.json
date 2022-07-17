@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "mii-channel-dark",
+		"player1": "bf-mii",
+		"player2": "eteled3",
+		"player3": null,
+		"events": [
+			[
+				31680,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				33840,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				61680,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				62160,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				62901,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				63054,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				93120,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						""
+					]
+				]
+			],
+			[
+				95040,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			],
+			[
+				95280,
+				[
+					[
+						"Screen Shake",
+						"0.5,0.05",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-mii",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "System-Failure"
+	}
+}
