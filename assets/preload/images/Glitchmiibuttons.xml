@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Glitchmiibuttons.png"><SubTexture name="Glitchmiibuttons anim0000" x="0" y="0" width="2008" height="1075" frameX="0" frameY="0" frameWidth="2008" frameHeight="1075" />
+<SubTexture name="Glitchmiibuttons anim0001" x="2008" y="0" width="2008" height="1085" frameX="0" frameY="0" frameWidth="2008" frameHeight="1085" />
+<SubTexture name="Glitchmiibuttons anim0002" x="4016" y="0" width="2008" height="1074" frameX="0" frameY="0" frameWidth="2008" frameHeight="1074" />
+<SubTexture name="Glitchmiibuttons anim0003" x="6024" y="0" width="2008" height="1071" frameX="0" frameY="0" frameWidth="2008" frameHeight="1071" />
+<SubTexture name="Glitchmiibuttons anim0004" x="0" y="1085" width="2008" height="1074" frameX="0" frameY="0" frameWidth="2008" frameHeight="1074" />
+<SubTexture name="Glitchmiibuttons anim0005" x="2008" y="1085" width="2008" height="1074" frameX="0" frameY="0" frameWidth="2008" frameHeight="1074" />
+<SubTexture name="Glitchmiibuttons anim0006" x="4016" y="1085" width="2008" height="1074" frameX="0" frameY="0" frameWidth="2008" frameHeight="1074" />
+</TextureAtlas>
