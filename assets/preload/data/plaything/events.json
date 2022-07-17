@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "hallwayPlay",
+		"player1": "bf-austin",
+		"player2": "eteled2",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteskinchangeBF",
+						"RedMiiNotes",
+						"RedMiiNotesSplashes"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"validScore": false,
+		"gfVersion": "gf-mii",
+		"bpm": 155,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Plaything"
+	}
+}
