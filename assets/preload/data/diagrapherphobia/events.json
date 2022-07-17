@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "mii-channel-glitch",
+		"player1": "bf-mii",
+		"player2": "eteled2",
+		"player3": null,
+		"events": [
+			[
+				29142.8571428571,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				30642.8571428571,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				33857.1428571428,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				40285.7142857143,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				40754.4642857143,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				40982.1428571429,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				47892.8571428572,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eteled3"
+					]
+				]
+			],
+			[
+				65489.3292066189,
+				[
+					[
+						"Change Character",
+						"dad",
+						"eteled2"
+					]
+				]
+			],
+			[
+				78292.9006351903,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				78346.4720637618,
+				[
+					[
+						"Add Camera Zoom",
+						"1.04",
+						""
+					]
+				]
+			],
+			[
+				78453.6149209046,
+				[
+					[
+						"Play Animation",
+						"scream",
+						"dad"
+					]
+				]
+			],
+			[
+				92596.4720637617,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				92703.6149209046,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				92810.7577780474,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				92917.9006351903,
+				[
+					[
+						"Screen Shake",
+						"0.5, 0.05",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-mii",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Diagraphephobia"
+	}
+}
